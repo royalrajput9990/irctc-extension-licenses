@@ -1,7 +1,8 @@
 [
   {
     "email": "user1@example.com",
-    "expiry": "2025-05-25",
+    "password": "abc123",
+    "expiry": "2025-05-28",
     "status": "active"
   }
 ]
